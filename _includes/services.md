@@ -6,7 +6,7 @@
   <li>IEEE Transactions on Internet Technology</li>
   <li>IEEE Transactions on Network Science and Engineering</li>
   <li>IEEE Journal of Biomedical and Health Informatics</li>
-  <li>IEEE Artificial Intelligence Review</li>
+  <li>Artificial Intelligence Review</li>
   <li>Internet of Things and Cyber-Physical Systems</li>
 </ul>
 
