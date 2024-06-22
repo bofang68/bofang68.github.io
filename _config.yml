@@ -1,18 +1,17 @@
-url: "hanchaozhang.xyz "
+url: "bofang.xyz "
 # baseurl: Hanchao-Zhang.github.io
 # Basic Information
-title: Hanchao Zhang
+title: Bo Fang
 # subtitle:
 position: Ph.D. Candidate
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
-subposition_link: https://nyu-medicine-cssa.github.io
-affiliation: New York University
-subaffiliation: Grossman School of Medicine
-affiliation_link: https://www.nyu.edu
-subaffiliation_link: https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/
-email: Hanchao.Zhang@nyu.edu
-address: 180 Madision Ave, Suite 5-31C, New York, NY 10016
-address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
+affiliation: University of Sydney
+subaffiliation: School of Computer Science
+affiliation_link: https://www.sydney.edu.au/
+subaffiliation_link: https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html
+email: bfan0072@uni.sydney.edu.au
+address: 1 Cleveland Street, Building J12, Sydney, NSW 2006
+address_link: https://maps.app.goo.gl/ErVKcoY7zHPrdBfQ7
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -22,11 +21,10 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=bePCCD8AAAAJ&hl=en
+google_scholar: https://scholar.google.com/citations?user=7umAoD0AAAAJ&hl
 # cv_link: assets/files/HanchaoZhangCV.pdf
-github_link: https://github.com/Hanchao-Zhang
-linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
-twitter: https://twitter.com/tedddddy_zhang
+github_link: https://github.com/bofang68
+orcid_link: https://orcid.org/0009-0003-3847-5765
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
