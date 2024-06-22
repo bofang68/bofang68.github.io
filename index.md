@@ -41,15 +41,6 @@ working under the mentorship of Prof.<a href="https://weidong-tom-cai.github.io/
 - **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**.
 
 
-{% include_relative _includes/services.md %}
-
-
-## Resources
-- <a href="https://github.com/Hanchao-Zhang/LeetCode-Prep/blob/main/main.pdf" target="_blank">*A Coding Question Prep*</a> by Hanchao Zhang
-- <a href="https://github.com/Hanchao-Zhang/LeetQuant-Note/blob/main/Prep/Quant%20Research.pdf" target="_blank">*A Quantatitive Research Interview Prep*</a> by Hanchao Zhang
-<!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
-- <a href="https://yuhangzhou88.github.io/ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> by Yuhang Zhou 
-
 
 
 
