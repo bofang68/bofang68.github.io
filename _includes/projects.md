@@ -7,29 +7,6 @@
       <div class="pub-row">
 
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-          <img src="assets/img/JBHI.jpg" class="teaser img-fluid z-depth-1">
-          <abbr class="badge">JBHI</abbr>
-        </div>
-
-        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-          <div class="title">
-            <a href="https://ieeexplore.ieee.org/abstract/document/10418865">Dual-Channel Neural Network for Atrial Fibrillation Detection From a Single Lead ECG Wave</a>
-          </div>
-          <div class="author"><strong>Bo Fang, Junxin Chen, Yu Liu, Wei Wang, Ke Wang, Amit Kumar Singh, Zhihan Lv</strong></div>
-          <div class="periodical"><em>IEEE Journal of Biomedical and Health Informatics <strong>(JBHI)</strong>, Oct. 2021.</em></div>
-          <div class="links">
-            <a href="https://ieeexplore.ieee.org/abstract/document/10418865" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-            <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9580630" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-          </div>
-        </div>
-
-      </div>
-    </li>
-
-    <li>
-      <div class="pub-row">
-
-        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
           <img src="assets/img/K-B.jpg" class="teaser img-fluid z-depth-1">
           <abbr class="badge">DCN</abbr>
         </div>
@@ -66,6 +43,29 @@
           <div class="links">
             <a href="https://ieeexplore.ieee.org/abstract/document/9746034" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
             <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9746034" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+          </div>
+        </div>
+
+      </div>
+    </li>
+
+    <li>
+      <div class="pub-row">
+
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="assets/img/JBHI.jpg" class="teaser img-fluid z-depth-1">
+          <abbr class="badge">JBHI</abbr>
+        </div>
+
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title">
+            <a href="https://ieeexplore.ieee.org/abstract/document/10418865">Dual-Channel Neural Network for Atrial Fibrillation Detection From a Single Lead ECG Wave</a>
+          </div>
+          <div class="author"><strong>Bo Fang, Junxin Chen, Yu Liu, Wei Wang, Ke Wang, Amit Kumar Singh, Zhihan Lv</strong></div>
+          <div class="periodical"><em>IEEE Journal of Biomedical and Health Informatics <strong>(JBHI)</strong>, Oct. 2021.</em></div>
+          <div class="links">
+            <a href="https://ieeexplore.ieee.org/abstract/document/10418865" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+            <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9580630" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
           </div>
         </div>
 
