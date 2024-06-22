@@ -13,7 +13,10 @@ working under the mentorship of Prof.<a href="https://weidong-tom-cai.github.io/
 - **Signal Processing:** data augmentation, time-frequency plot, poincare plot
 
 ## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
+- **[2024]** China Scholarship Council (CSC) Scholarships
+- **[2023]** China Postgraduate National Scholarship
+- **[2022]** Northeastern University First-Class Academic Scholarship.
+- **[2022]** Outstanding Graduate Student of Northeastern University
 
 
 <!-- {% include_relative _includes/publications.md %} -->
