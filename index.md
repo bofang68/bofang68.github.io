@@ -53,8 +53,5 @@ working under the mentorship of Prof.<a href="https://weidong-tom-cai.github.io/
 - **[2]** Yu Liu, Junxin Chen, **Bo Fang**, Yongyong Chen and Zhihan Lv, “Ensemble Learning-based Atrial Fibrillation Detection from Single Lead ECG Wave for Wireless Body Sensor Network,” ***IEEE Transactions on Network Science and Engineering***, vol. 10, no. 5, pp. 2627-2636, 2023.
 - **[1]** **Bo Fang**, Junxin Chen, Yu Liu, Wei Wang, Ke Wang, Amit Kumar Singh, and Zhihan Lv, “Dual-channel Neural Network for Atrial Fibrillation Detection from a Single Lead ECG Wave,” ***IEEE Journal of Biomedical and Health Informatics***, vol. 27, no. 5, pp. 2296-2305, 2023.
 
-<div style="text-align: center; max-width: 300px; margin: 0 auto;">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=twh8fdDvWpe47jVFcC2T2qo-z7aAa0ixnzQvVLdXrk4&cl=ffffff&w=a"></script>
-</div>
 
 
