@@ -175,3 +175,4 @@ Our project uses the source code from the following repositories:
 
 * [al-folio](https://github.com/alshedivat/al-folio)
   
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=twh8fdDvWpe47jVFcC2T2qo-z7aAa0ixnzQvVLdXrk4"></script>
