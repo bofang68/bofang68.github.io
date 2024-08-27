@@ -56,5 +56,12 @@ working under the mentorship of Prof.<a href="https://weidong-tom-cai.github.io/
 
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=twh8fdDvWpe47jVFcC2T2qo-z7aAa0ixnzQvVLdXrk4&size=small"></script>
+<style>
+  #clstr_globe iframe {
+    width: 300px !important;
+    height: 300px !important;
+  }
+</style>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=twh8fdDvWpe47jVFcC2T2qo-z7aAa0ixnzQvVLdXrk4"></script>
+
 
